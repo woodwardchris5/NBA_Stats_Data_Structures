@@ -2,9 +2,7 @@ Package: NBAPackage
 Title: Calculating A Few NBA Stats
 Version: 0.0.0.9000
 Authors@R: person("Chris", "Woodward", email = "cdw2138@columbia.edu")
-Description: Calculates a few NBA statistics. most_points outputs the player and total points of the leading scorer in a given year.
-oldest_pl outputs the oldest player in the league and his age in a given year.
-corr_mat outputs the correlation matrix of all the numeric variables in the dataset.
+Description: Calculates a few NBA statistics. most_points outputs the player and total points of the leading scorer in a given year. oldest_pl outputs the oldest player in the league and his age in a given year. corr_mat outputs the correlation matrix of all the numeric variables in the dataset.
 Depends: R (>= 3.4.2)
 License: What license is it under?
 Encoding: UTF-8
